@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Actor
+comment1.params=newActor
+comment1.target=void\ act(java.util.List)
+comment1.text=\r\n\ Perform\ the\ actor's\ regular\ behaviour\r\n\ @param\ newActor\ A\ listfor\ receiving\ newly\ created\ actors\r\n
+comment2.params=
+comment2.target=boolean\ isActive()
+comment2.text=\r\n\ Is\ the\ actor\ still\ active?\r\n\ @return\ true\ if\ still\ active,\ false\ if\ not.\r\n
+numComments=3
