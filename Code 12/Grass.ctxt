@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Grass
+comment0.text=\n\ A\ simple\ model\ of\ Grass.\n\ Grass\ age,\ breed,\ grow\ and\ die.\n\n\ @author\ David\ J.\ Barnes,\ Michael\ K\u00F6lling,\ Fang,Lidan\ and\ Yuxin\ Chen\n\ @version\ 2021.03.01\n
+comment1.params=field\ location
+comment1.target=Grass(Field,\ Location)
+comment1.text=\n\ The\ constructor\ of\ Grass\ class\n
+comment2.params=newGrass
+comment2.target=void\ act(java.util.List)
+comment2.text=\n\ This\ is\ plant\ behaviour\ and\ what\ they\ do\ most\ of\ the\ time\n\ @param\ newGrass\ A\ list\ to\ return\ all\ the\ new\ born\ grass\n
+comment3.params=newGrass
+comment3.target=void\ growPlant(java.util.List)
+comment3.text=\n\ Grows\ a\ new\ plant\ when\ this\ method\ is\ called\n\ @param\ newGrass\ A\ list\ to\ return\ all\ the\ new\ born\ grass\n
+comment4.params=
+comment4.target=double\ getGrowingProbability()
+comment4.text=\n\ Getter\ method\n\ Returns\ the\ growing\ probability\n
+comment5.params=
+comment5.target=int\ getMaxGrowSize()
+comment5.text=\n\ Getter\ method\n\ Returns\ the\ Max\ growing\ size\n
+numComments=6
